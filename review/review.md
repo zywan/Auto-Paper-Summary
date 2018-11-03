@@ -1,1 +1,9 @@
- 
+# Review
+## code review
+In terms of readme, it's more like a brief introduction of the project, but it's more important to provide a guide for reviewers to run the program. For those who are not familiar with Django framework, it's hard to know what the structure of the web design. So it's better offer a brief introduction of your web framework.    
+As far as I seen in the Django part, the user input a paper and press "Make Summarization" and will get the summarization. It's succinct and easy to understand which is great. For now, I haven't seen the database part, And I think some decorations and copyrights are also necessary. So they could try bootstrap to improve the UI.     
+
+Basically, they have successfully implemented the paper summary work, it's great that they can summarize the whole paper to several sentences. However, what they have done seems to have some similarity with the 'abstract' part of a paper. Maybe they could pay more attention to find some more efficient algorithms to improve performance of summary work.    
+
+Error handling seems to be missing. I think it's OK that they don't consider error handling right now, but It is unclear what would happen if an unknown error came up. Maybe they should pay attention to the error handling work after having implemented most of the functions.    
+## technology selection review
